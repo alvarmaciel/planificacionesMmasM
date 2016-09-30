@@ -1,7 +1,7 @@
 # Created 2016-09-30 vie 07:28
 #+TITLE: Seguimiento de autor
 #+AUTHOR: Alvar Maciel
-* NEXT Graciela Montes
+* Graciela Montes
 ** Producto
 - [X] Recomendaciones de diferentes obras de la autora. Los chicos en grupos las escriben y dibujan, las grabamos y las subimos. Cual book trailer
 - [ ] Galería de personajes
