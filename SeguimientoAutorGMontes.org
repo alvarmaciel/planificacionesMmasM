@@ -3,12 +3,12 @@
 #+AUTHOR: Alvar Maciel
 * Índice
 - [[SeguimientoAutorGMontes.org#producto][Producto]]
-- [[*Momentos][Momentos]]
-- [[*Recorrido posible][Recorrido posible]]
-- [[*Propuestas de trabajo con la Biografía][Propuestas de trabajo con la Biografía]]
-- [[*Situaciones de lectura][Situaciones de lectura]]
-- [[*Propuestas de escritura][Propuestas de escritura]]
-- [[*Secuencia de actividades][Secuencia de actividades]]
+- [[SeguimientoAutorGMontes.org#momentos][Momentos]]
+- [[SeguimientoAutorGMontes.org#recorrido-posible][Recorrido posible]]
+- [[SeguimientoAutorGMontes.org#propuestas-de-trabajo-con-la-biografía][Propuestas de trabajo con la Biografía]]
+- [[SeguimientoAutorGMontes.org#situaciones-de-lectura][Situaciones de lectura]]
+- [[SeguimientoAutorGMontes.org#propuestas-de-escritura][Propuestas de escritura]]
+- [[SeguimientoAutorGMontes.org#secuencia-de-actividades][Secuencia de actividades]]
 
 * Graciela Montes
 ** Producto
