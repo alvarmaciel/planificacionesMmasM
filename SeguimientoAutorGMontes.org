@@ -1,4 +1,4 @@
-# Created 2016-09-30 vie 07:28
+
 #+TITLE: Seguimiento de autor
 #+AUTHOR: Alvar Maciel
 * Índice
@@ -61,7 +61,8 @@
 - distribución y lectura por parte de los estudiantes de recomendaciones de libros que formarán parte de la agenda de lectura, mezclar en esta selección recomendaciones de otros libros
 - elaboración de la selección de forma grupal el afiche
   - Luego se le entregará a cada estudiante una copia de la selección a modo de agenda para ir registrando lo leído.
-*** Historia de un amor exagerado dos lecturas por semana
+*** Historia de un amor exagerado 
+- Mínimo dos lecturas por semana
 - Lectura por parte del maestro de capítulo 1
   - Leer el prólogo, mostrar la foto e intercambiar con los estudiantes sobre la relación entre Chacho y Graciela
 - Intercambio entre lectores
@@ -88,4 +89,46 @@
   - Escritura Intermedia, copia con sentido para saber como dice.
     - Vamos a retomar las marcas que hicimos en el texto para ver como dice la autora algunas cosas:
       - ¿Cuáles son los indicios de la tragedia?
-      - ¿Que frases o palabras nos indican que s algunas personas no les gustaba el amor de los chicos y a otros sí?
+      - ¿Que frases o palabras nos indican que a algunas personas no les gustaba el amor de los chicos y a otros sí?
+- Lectura por si mismos Capítulo 4
+  - Intercambio entre lectores
+  - Escritura intermedia: Que cosas le mandó a Teresita (Armar plan de escritura)
+- Lectura por parte del maestro Cap 5 y 6
+  - Intercambio entre lectores
+    - ¿Cómo terminó la historia?
+  - Afiche con personajes y situaciones (cón dibujos, cual galería)
+
+*** Doña clementina querida achicadora
+- Lectura a través del docente 
+  - El maestro contextualiza la lectura del cuento comentando algunos datos de la biografía y bibliografía de la autora para luego leer la carta a los niños que presenta el libro donde se encuentra el cuento “Doña Clementina Queridita, la Achicadora”.
+  - El maestro lee el cuento a los niños sin interrupciones.
+- Espacio de Intercambio entre lectores después de la lectura
+  - ¿Qué fue lo que más les sorprendió de este cuento?
+  - Parece que Doña Clementina también estaba sorprendida y muy preocupada… ¿Por qué?
+  - ¿Por qué les parece que a Doña Clementina la llaman “Queridita”?
+  - ¿Cuándo se convirtió en Achicadora? Volvamos a leerlo…
+  - ¿Qué hizo Doña Clementina cuando se dio cuenta que Polidoro, el gato, se había achicado al tamaño de una pelusa?
+  - Finalmente en la farmacia ¿Consiguió el remedio para curar al gato del achique?
+  - A mí me gusta la parte en que achica a Oscarcito el día de su cumpleaños, estaba tan ansioso por soplar las velitas y justo pasó lo que pasó ¿Les leo otra vez esa parte?
+  - ¿En el barrio se dieron cuenta enseguida de los achiques de Doña Clementina?
+  - ¿Por qué les parece qué en el cuento dice que “se dio cuenta de que las hueveras eran muy útiles para guardar achicados”?
+  - ¿Cómo cuidaba Doña Clementina a cada uno de sus achicados?
+  - ¿Por qué será que Doña Clementina le dice al gato: “Gatón! Gatote! Gatazo!?
+  - Los lectores ¿Cuándo comenzamos a darnos cuenta del poder de sus palabras? ¿Se acuerdan en que parte de la historia? Les voy a leer algunos pasajes que me parece que nos ayudarán a decidir. Ustedes me avisan.
+- Lectura por sí mismo
+  - proponer que los niños sigan la lectura en parejas o tríos, centrándose en profundidad en la lectura de algunos párrafos de la historia.
+  - ¿Cuándo se produjo el primer achique? (Pág. 16)
+  - Lean y copien la lista de cosas que achicó Doña Clementina (Pág. 21)
+  - Busquen y lean ¿Cómo cuidaba Doña Clementina a sus achicados? (Pág. 23)
+  - Busquen y lean ¿Cuándo descubrió Doña Clementina que podía hacer crecer a sus achicados? (Pág. 24/ 25)
+  - La maestra solicita a los niños que localicen algún pasaje del texto. Por ejemplo: “Aquí aparece algo escrito en negrita” ¿Qué les parece que indica?
+- Escritura por sí mismo
+  - ¿Qué le contarías a otro chico que no leyó el cuento para que sepa cómo es Doña Clementina?
+  - ¿Por qué le dicen “Queridita”? Escribilo cómo lo dice en el cuento.
+  - ¿Cómo era Doña Clementina de chica?
+  - ¿Cómo fue que Doña Clementina descubrió el antídoto para la enfermedad del achicamiento?
+  - Escribí ¿Cómo cuidaba Doña Clementina a cada uno de sus achicados?
+  - Contale a otro chico que no leyó el cuento cómo se solucionó la enfermedad de los achicados en el barrio de Florida. -No te olvides ningún detalle de cómo se solucionó el problema.
+  - Escribí ¿Qué hicieron los achicados cuando volvieron a tener su tamaño real?
+  - Luego de leer la carta a los niños que Graciela Montes incluye antes del cuento, le proponemos a los niños que en parejas le escriban una carta de respuesta a la autora.
+  - Escribí el o los antídotos para cada uno de estos achiques, tal como lo haría Doña Clementina: Gatito, Don Ramoncito, Oscarcito, Frasquito de jarabe, Manzanita, Sillita, Arbolito, Librito de cuentos, siete velitas.
