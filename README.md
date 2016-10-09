@@ -1,4 +1,4 @@
-## Planificaciones del Programa Mestro Más Maestro
+# Cómo funciona esto
 Repositorio que contiene escritura, reflexión y seguimiento del trabajo en un primer grado y 4 segundos grados de escuela pública en la Ciudad Autónoma de Buenos Aires.
 
 Funciona como organizador y me permite llevar control de las tareas pendientes para la realización de los proyectos en el marco del programa [Maestro más Maestro](http://maestromasmaestro.com.ar/)
