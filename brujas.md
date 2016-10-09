@@ -53,12 +53,12 @@ Dibujo y escritura para el album
 Lectura con los estudiantes de fragmento. Ubicar ¿Dónde dice?
 Escritura por parte del maestro: completar el cuadro.
 
-## Clase 7: La bella Durmiente
+## Clase 5: La bella Durmiente
 Lectura por parte del maestro. “Hoy les voy a leer Rapunzel, un cuento del que hiceiron una pelicula, ¿Se acuerdan?. Es una historia que ha sido contada muchas veces.” Los maestros leen cada cuento respetando cada texto y adecuando el tono y volumen de su voz a las circunstancias del relato.
 Intercambio entre lectores. hacer planteos u observaciones que permitan releer pasajes con distintos motivos: por ejemplo, corroborar interpretaciones, revivir escenas o apreciar la manera en que están escritas: ¿Qué parte de la historia les dio más miedo?, ¿Por qué cuando llegan a la casa me sigue dando la sensación de que no están a salvo” ¿En qué momento se dieron cuenta de que la vieja era una bruja?
 Los niños marcan en la agenda el título leído. Y escribirán un breve apreciación o comentario del cuento.
 
-## Clase 8 : La bella Durmiente
+## Clase 6 : La bella Durmiente
 
 
 # Bibliografía
