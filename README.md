@@ -16,7 +16,7 @@ Esta organizado de la siguiente manera:
 Esta parte está en proceso, la idea es usar la utilidad de Github para tener un sitio publicado y fácil de encontrar con las planificaciones.
 
 ## Horarios
-- [cronogramas](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/Cronogramas.md)
+- [cronogramas](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/Cronograma.md)
 
 ## Proyectos
 - [Seguimiento de autor](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/SeguimientoAutorGMontes.org)
