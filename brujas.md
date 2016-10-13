@@ -46,15 +46,20 @@ Los niños marcan en la agenda el título leído. Y escribirán un breve aprecia
 - Dibujo y escritura para el album
 
 ### Clase 3: La sirenita
-Lectura por parte del maestro. “Hoy les voy a leer Rapunzel, un cuento del que hicieron una película, ¿Se acuerdan?. Es una historia que ha sido contada muchas veces.” Los maestros leen cada cuento respetando cada texto y adecuando el tono y volumen de su voz a las circunstancias del relato.
-Intercambio entre lectores. hacer planteos u observaciones que permitan releer pasajes con distintos motivos: por ejemplo, corroborar interpretaciones, revivir escenas o apreciar la manera en que están escritas: ¿Qué parte de la historia les dio más miedo?, ¿Por qué cuando llegan a la casa me sigue dando la sensación de que no están a salvo” ¿En qué momento se dieron cuenta de que la vieja era una bruja?
-Los niños marcan en la agenda el título leído. Y escribirán un breve apreciación o comentario del cuento.
+- Lectura por parte del maestro. “Hoy les voy a leer La sirenita, un cuento del que hicieron una película, ¿la vieron?. Esta es otra historia que ha sido contada muchas veces.” 
+  Los maestros leen el cuento respetando cada texto y adecuando el tono y volumen de su voz a las circunstancias del relato.
+- Intercambio entre lectores. Hacer planteos u observaciones que permitan releer pasajes con distintos motivos: por ejemplo, corroborar interpretaciones, revivir escenas o apreciar la manera en que están escritas: ¿Qué parte de la historia les dio más miedo?, ¿Cómo es esta bruja? ¿Qué cosas le pide la bruja a cambio del deseo de la sirenita? en esta versión de la sirenita no la llaman “bruja”¿ de qué otra manera se refieren a ella? (hechicera)
+ Los niños marcan en la agenda el título leído. Y escribirán un listado de personajes del cuento por si mismo, luego revisaremos cómo se escribieron los nombres y ese listado luego quedará en el ambiente alfabetizador.
 
-### Clase 4 La sirenita
-Lectura por parte del maestro.
-Dibujo y escritura para el album
-Lectura con los estudiantes de fragmento. Ubicar ¿Dónde dice?
-Escritura por parte del maestro: completar el cuadro.
+### Clase 4: La sirenita
+- Lectura por parte del maestro.
+- Lectura con los estudiantes de fragmento donde aparece la bruja. Ubicar ¿Dónde dice?
+- Escritura por parte de los estudiantes: los estudiantes completarán en parejas la fila del cuadro para que luego repasar que vamos a dejar en él.
+- Momento de reflexión : retomando ciertos aspectos del sistema de escritura.
+ “Encontré escrito brujas de tres maneras diferentes, se las muestro: BUJAS, BJAS, BRUJAS
+ ¿Buscamos en La Bruja Berta para ver cómo se escribe?”
+- puesta en común del llenado de ficha para que el maestro complete el cuadro.
+- Dibujo y escritura para el album
 
 ### Clase 5: La bella durmiente
 - Lectura por parte del maestro del cuento “La bella durmiente”.
