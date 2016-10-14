@@ -10,10 +10,10 @@ Esta organizado de la siguiente manera:
     - TODO: para las tareas pendientes
     - En Proceso: las tareas iniciadas
     - Notas: las notas aclaraciones y reflexiones en torno a los proyectos
-- Los [Milestones](https://github.com/alvarmaciel/planificacionesMmasM/milestones) coleccionan issues por proyectos. Esta parte está todavía en prueba, pero quiero dejar ahí todas las Notas
+- Los [Milestones](https://github.com/alvarmaciel/planificacionesMmasM/milestones) coleccionan issues. Esta parte está todavía en prueba
 
 ## Publicación como página web
-Esta parte está en proceso, la idea es usar la utilidad de Github para tener un sitio publicado y fácil de encontrar con las planificaciones.
+Uso la utilidad de Github para tener un sitio publicado y fácil de encontrar con las planificaciones.
 
 ## Horarios
 - [cronogramas](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/Cronograma.md)
