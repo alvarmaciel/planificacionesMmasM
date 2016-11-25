@@ -1,19 +1,26 @@
-* Cuento tradicional: Patito Feo: 
+* Cuento tradicional: Patito Feo:
+
 - Los 4 segundos
 - dos veces  por semana
 - Clases de 80'
+
 ** Clase 1
 *** lectura por parte del maestro
 *** Espacio de intercambio
+
 - ¿Cómo lo trataban sus hermanos al patito?
 - ¿Qué pensaba patito de si mismo?
 - ¿Qué partes te dan pistas para saber que pensaba de él?
 - ¿Por qué se fue de la casa?
 - ¿Qué pasó en la cocina?
+
 *** Exploración de ejemplar
 *** Registro de título y autor e ilustrador
+
 - [X] [[file:fichasDeLibro.odt][Ficha del libro]]
+
 *** Grados
+
 - [X] 2A
 - [X] 2B
 - [X] 2C
@@ -21,35 +28,46 @@
 
 ** Clase 2
 *** Escritura intermedia
+
 - [ ] Escribir listado con quienes se encontró patito
 - [ ] Incorporar el listado al ambiente
 - [ ] Reflexión sobre el lenguaje (a focalizado)
+
 *** Lectura por si mismo
+
 - Página 1 para los más avanzados
 - Página 13 y 14 diálogo y texto despejado del gato la gallina y la vieja campesina
+
 *** Grados
+
 - [ ] 2A
 - [X] 2B
 - [X] 2C
 - [X] 2D
+
 ** Clase 3
 *** Escritura extensa con plan de escritura de un episodio
+
 - Lectura por si mismos en parejas episodio del pantano
 - [ ] Dictado al maestro: del plan y del episodio ¿Qué le pasó a patito en el pantano?
 - [ ] Escribirlo en informática o pasarlo a un fragmento para pegar en el cuaderno
 
 *** Grados
-- [ ] 2A
+
+- [x] 2A
 - [ ] 2B
 - [ ] 2C
 - [ ] 2D
 
 ** Clase 4
 *** Lectura por si mismo de alguno episodio
+
 - [ ] Seguir lectura del maestro
 - [ ] más avanzados un texto desafiante
 - [ ] mas alejado: diálogo y texto despejado
+
 *** Grados
+
 - [ ] 2A
 - [ ] 2B
 - [ ] 2C
@@ -57,17 +75,21 @@
 
 ** Clase 5
 *** Escritura extensa con plan de escritura de un episodio
+
 - [ ] Leemos entre todos el episodio 
 - [ ] Armado de plan de escritura: ¿que le pasó a patito en la cocina?
 - Cuentan con el afiche y el texto anterior
+
 *** Grados
+
 - [ ] 2A
 - [ ] 2B
 - [ ] 2C
 - [ ] 2D
 
-** Clase 6 
+** Clase 6
 *** Revisión de esa escritura
+
 - [ ] Elegir una o varias producciones, normalizarlas y trabajar con ellos:
 - reglas de uso frecuente
   - Barril
@@ -75,8 +97,17 @@
   - pera perra
   - careta carreta
 - [ ] entregarle un texto con las palabras mal escritas en relación a lo que hayamos revisado: ¿te animas a corregirlas?
+
 *** Grados
+
 - [ ] 2A
 - [ ] 2B
 - [ ] 2C
 - [ ] 2D
+
+* Notas
+
+- Andrea esta silabica alfabetica.  Lee y revisa sus producciones. Si separacion lexica
+- Milagros esta en su etapa silabica con valor sonoro. 
+
+
