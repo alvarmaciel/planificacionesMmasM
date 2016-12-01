@@ -42,3 +42,30 @@ A la mañana siguiente, muy temprano, lo encontró un campesino.........
   - Manzana
   - Enanito
   - Pan
+** Criterios de corrección
+:PROPERTIES:
+:COLUMNS: %25ITEM %25CONTENIDO %25INTERVENCIONES %25CRITERIOS
+:END:
+*** 1
+:PROPERTIES:
+:CONTENIDO: Lectura por si mismo de un diálogo -breve- significativo
+:END:
+**** Intervención 1
+:PROPERTIES:
+:INTERVENCIONES: Los docentes contextualizan el fragmento seleccionado: "Esta es la parte en que la reina habla con el espejo"
+:END:
+**** Intervención 2
+**** Intervención 3
+*** 2
+*** 3
+*** 4
+
+** Modelo tabla
+
+| Item | Contenido                                | consignas            | INTERENCIONES                            | Criterios de corrección |
+|------+------------------------------------------+----------------------+------------------------------------------+------------------------|
+|      | <40>                                     | <20>                 | <40>                                     | <22>                   |
+|    1 |                                          |                      |                                          |                        |
+|    2 |                                          |                      |                                          |                        |
+|    3 |                                          |                      |                                          |                        |
+|    4 |                                          |                      |                                          |                        |
