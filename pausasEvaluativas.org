@@ -54,6 +54,7 @@ A la mañana siguiente, muy temprano, lo encontró un campesino.........
 :PROPERTIES:
 :INTERVENCIONES: Los docentes contextualizan el fragmento seleccionado: "Esta es la parte en que la reina habla con el espejo"
 :END:
+Los docentes contextualizan el fragmento seleccionado: "Esta es la parte en que la reina habla con el espejo"
 **** Intervención 2
 **** Intervención 3
 *** 2
@@ -65,7 +66,58 @@ A la mañana siguiente, muy temprano, lo encontró un campesino.........
 | Item | Contenido                                | consignas            | INTERENCIONES                            | Criterios de corrección |
 |------+------------------------------------------+----------------------+------------------------------------------+------------------------|
 |      | <40>                                     | <20>                 | <40>                                     | <22>                   |
-|    1 |                                          |                      |                                          |                        |
+|    1 | Lectura por si mismo de un diálogo -breve- significativo |                      |                                          |                        |
 |    2 |                                          |                      |                                          |                        |
 |    3 |                                          |                      |                                          |                        |
 |    4 |                                          |                      |                                          |                        |
+* Modelo de seguimiento de estudiantes
+:PROPERTIES:
+:COLUMNS:  %25ITEM(ESTUDIANTE) %24ESTADIO %50OBSERVACIONES
+:ESTADIO_ALL: Presilábico "Silábico sin valor sonoro" "Silábico con valor sonoro" "Silábico-Alfabético"
+:END:
+
+** Miguel Angel
+*** Toma <2016-11-22 mar>
+:PROPERTIES:
+:ESTADIO:  Presilábico
+:OBSERVACIONES: Escribe chorizo de letras
+:END:
+*** Toma <2016-12-01 jue>
+:PROPERTIES:
+:ESTADIO:  Silábico con valor sonoro
+:OBSERVACIONES: Cuando lee sus producciones hace un recorte silábico pero no hay correspondencia sonora
+:END:
+*** Pausa <2016-12-05 lun>
+:PROPERTIES:
+:ESTADIO:  Silábico-Alfabético
+:OBSERVACIONES: Hay correspondencia vocálica
+:END:
+** Ana Lía
+*** Toma <2016-11-15 mar>
+:PROPERTIES:
+:ESTADIO:  Silábico con valor sonoro
+:END:
+*** Toma <2016-11-18 vie>
+:PROPERTIES:
+:ESTADIO:  Silábico sin valor sonoro
+:END:
+*** Pausa <2016-12-02 vie>
+:PROPERTIES:
+:ESTADIO:  Silábico-Alfabético
+:OBSERVACIONES: Ya solo omite algunas letras en grups consonánticos
+:END:
+** Juan Martín
+:PROPERTIES:
+:ESTADIO:
+:END:
+** La vista para exportar
+#+BEGIN: columnview :hlines 1 :id local
+| ESTUDIANTE                           | ESTADIO                   | OBSERVACIONES                                                                           |
+|--------------------------------------+---------------------------+-----------------------------------------------------------------------------------------|
+| Modelo de seguimiento de estudiantes |                           |                                                                                         |
+| Nombre y Apellido                    |                           |                                                                                         |
+| Toma <2016-11-22 mar>                | Presilábico               | Escribe chorizo de letras                                                               |
+| Toma <2016-12-01 jue>                | Silábico con valor sonoro | Cuando lee sus producciones hace un recorte silábico pero no hay correspondencia sonora |
+| Pausa <2016-12-05 lun>               | Silábico-Alfabético       | Hay correspondencia vocálica                                                            |
+| La vista columna                     |                           |                                                                                         |
+#+END:
