@@ -1,0 +1,8 @@
+Tareas pendientes
+
+* DONE Armar actividad de reflexión del lenguaje 2A
+CLOSED: [2016-12-01 jue. 21:05] DEADLINE: <2016-11-28 lun. 20:00>
+:PROPERTIES:
+:ID:       62070cdc-2df7-445a-8d9b-a0d1f0ccddfe
+:END:
+
