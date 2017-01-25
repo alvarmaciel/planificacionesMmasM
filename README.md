@@ -1,26 +1,11 @@
-# Cómo funciona esto
-Repositorio que contiene escritura, reflexión y seguimiento del trabajo en un primer grado y 4 segundos grados de escuela pública en la Ciudad Autónoma de Buenos Aires.
+# Planificaciones del programa Maestro más Maestro
+Repositorio que contiene escritura, reflexión y seguimiento del trabajo en prier ciclo de la escuela primaria  pública en la Ciudad Autónoma de Buenos Aires.
 
 Funciona como organizador y me permite llevar control de las tareas pendientes para la realización de los proyectos en el marco del programa [Maestro más Maestro](http://maestromasmaestro.com.ar/)
 
 Esta organizado de la siguiente manera:
-- un archivo por proyecto/secuencia en marcha con la planificación,
-- la sección [Issues](https://github.com/alvarmaciel/planificacionesMmasM/issues) es la más importante, allí se juntan las tareas y el sistema de seguimiento de los proyectos en marcha. Los issues están enlazados a un tablero en [Trello](http://trello.com) que me mantiene actualizada la lista en el celular(esto es una prueba no se si va a quedar así).
-  - etiquetas:
-    - TODO: para las tareas pendientes
-    - En Proceso: las tareas iniciadas
-    - Notas: las notas aclaraciones y reflexiones en torno a los proyectos
-- Los [Milestones](https://github.com/alvarmaciel/planificacionesMmasM/milestones) coleccionan issues. Esta parte está todavía en prueba
+- un archivo por proyecto/secuencia en marcha con la planificación
 
-## Publicación como página web
-Uso la utilidad de Github para tener un sitio publicado y fácil de encontrar con las planificaciones.
-
-## Proyectos
-- [Seguimiento de autor](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/SeguimientoAutorGMontes.org)
-- [Personaje prototípico: Brujas](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/brujas.md)
-
-## Horarios
-- [cronogramas](https://github.com/alvarmaciel/planificacionesMmasM/blob/master/Cronograma.md)
 
 
 # Licencia
